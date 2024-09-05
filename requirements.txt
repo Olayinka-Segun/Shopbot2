@@ -1,0 +1,37 @@
+# Core Libraries
+Flask==2.1.2
+Flask-Login==0.5.0
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==1.0.0
+Flask-Migrate==3.1.0
+Werkzeug==2.1.2
+
+# Database
+psycopg2==2.9.1
+SQLAlchemy==1.4.18
+
+# NLP and Machine Learning
+transformers==4.30.0
+sentence-transformers==2.2.0
+torch==2.0.1
+
+# Web Scraping
+beautifulsoup4==4.9.3
+requests==2.25.1
+lxml==4.6.3
+
+# Utility Libraries
+gunicorn==20.1.0
+python-dotenv==0.15.0
+click==7.1.2
+
+# Front-End (Optional)
+Jinja2==2.11.3
+
+# Development and Testing
+pytest==7.0.1
+coverage==5.5
+flake8==3.9.2
+
+# Security
+itsdangerous==2.0.1
